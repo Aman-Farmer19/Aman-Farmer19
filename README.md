@@ -25,7 +25,7 @@ I am a CSE Graduate &  "Software Developer · AI & Cloud Enthusiast"  with hands
 *   **Tech:** Python, AWS Lambda, API Gateway, S3, Gemini 2.5 Flash
 *   Built a production-ready serverless chatbot with context-aware responses and granular error handling.
 
-### [Reelify-2.0](https://github.com/Aman-Farmer19/Reelify-2.0) — AI Video Generator
+### [Reelify-2.0](https://github.com/Aman-Farmer19/Reelify-2.0) — AI- Powered Short Video Generator
 *   **Tech:** React.js, Tailwind, Flask, Generative AI
 *   Developed a responsive web app for generating AI-powered short-form videos from prompts.
 
