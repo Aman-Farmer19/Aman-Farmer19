@@ -3,7 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Aspiring-Software%20Developer-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20 & Cloud%20Enthusiast -Yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20 & Cloud%20Enthusiast-yellow?style=for-the-badge" />
 </p>
 
 ## 🚀 About Me
