@@ -41,6 +41,8 @@ I am a CSE Graduate &  "Software Developer · AI & Cloud Enthusiast"  with hands
 
 ---
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aman-Farmer19&theme=react-dark&hide_border=true)
+
 ## 🔗 Let's Connect
 - **Email:** [amantripathi912@gmail.com](mailto:amantripathi912@gmail.com)
 - **LinkedIn:** https://www.linkedin.com/in/tiwari-aman1999/
