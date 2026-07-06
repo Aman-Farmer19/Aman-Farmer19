@@ -1,31 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Welcome%20to%20Aman's%20GitHub&fontSize=34&fontColor=fff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+# Hi there, I'm Aman Tiwari 👋
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4A4A8A&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Aman+Tiwari+👋;Software+Developer;AI+%26+Cloud+Enthusiast;Open+to+Work!" alt="Typing SVG" />
-</h1>
+### Software Developer · AI & Cloud Enthusiast · Open to Work
 
-</div>
+---
 
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a4a8a&height=200&section=header&text=Welcome%20to%20Aman's%20GitHub%20%3C/%3E&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=60&descSize=15" width="100%"/>
-
-</div>
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a4a8a&height=200&section=header&text=Welcome%20to%20Aman's%20GitHub&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=16)
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tiwari-aman1999)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aman-Farmer19)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amantripathi912@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
@@ -33,22 +16,13 @@
 
 ## 👨‍💻 About Me
 
-```python
-class AmanTiwari:
-    def __init__(self):
-        self.name        = "Aman Tiwari"
-        self.location    = "Varanasi, U.P., India"
-        self.education   = "B.Tech CSE — Kashi Institute of Technology, AKTU"
-        self.focus       = ["AI & LLMs", "Cloud Architecture", "Full-Stack Development"]
-        self.passion     = "Building real-world AI-powered applications"
-        self.currently   = "Open to work — Software Developer roles"
-
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something great together.")
-
-me = AmanTiwari()
-me.say_hi()
-```
+- 🎓 **B.Tech CSE Graduate** — Kashi Institute of Technology, AKTU Lucknow (CGPA: 7.95)
+- 📍 Based in **Varanasi, U.P., India**
+- 🚀 Passionate about building **AI-powered full-stack applications**
+- ☁️ Strong interest in **Cloud Architecture, LLMs & Serverless Systems**
+- 🌱 Currently exploring **Agentic AI & RAG-based systems**
+- 💼 **Open to Work** — Looking for Software Developer roles
+- 📫 Reach me at **amantripathi912@gmail.com**
 
 ---
 
@@ -69,7 +43,7 @@ me.say_hi()
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 
 **Cloud & DevOps**
@@ -80,10 +54,9 @@ me.say_hi()
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Tools & Platforms**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -93,12 +66,13 @@ me.say_hi()
 ## 🚀 Featured Projects
 
 ### 🤖 [CloudChat — Serverless AI Chatbot on AWS](https://github.com/Aman-Farmer19/AI-Chatbot-With-AWS-LLM-Integration)
-> Production-ready serverless chatbot powered by Google Gemini 2.5 Flash & OpenAI GPT-4o-mini
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini%202.5-4285F4?style=flat&logo=google&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+> Production-ready serverless chatbot powered by Google Gemini 2.5 Flash & OpenAI GPT-4o-mini
 
 - Architected serverless backend using AWS Lambda + API Gateway with provider-agnostic LLM abstraction
 - Stateful multi-turn conversations persisted in Amazon S3 with structured JSON session storage
@@ -108,11 +82,12 @@ me.say_hi()
 ---
 
 ### 🎬 [Reelify-2.0 — AI Powered Short Video Generator](https://github.com/Aman-Farmer19)
-> AI platform that transforms text prompts into short-form videos automatically
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+> AI platform that transforms text prompts into short-form videos automatically
 
 - Built AI-powered video generation pipeline using structured prompt engineering
 - Full-stack React + Flask application with authentication and interactive dashboard
@@ -120,11 +95,12 @@ me.say_hi()
 ---
 
 ### 🎬 [NextFlix — AI Movie Recommendation System](https://github.com/Aman-Farmer19)
-> Personalized movie recommendations powered by an AI recommendation engine
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TMDb](https://img.shields.io/badge/TMDb%20API-01D277?style=flat&logo=themoviedatabase&logoColor=white)
+
+> Personalized movie recommendations powered by an AI recommendation engine
 
 - AI recommendation engine analyzing user preferences and viewing patterns
 - Real-time TMDb API integration with mobile-first responsive design
@@ -135,21 +111,11 @@ me.say_hi()
 
 <div align="center">
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-Farmer19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=4a4a8a&icon_color=4a4a8a&text_color=ffffff)
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-Farmer19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aman-Farmer19&theme=tokyonight&hide_border=true&background=1a1a2e&ring=4a4a8a&fire=4a4a8a&currStreakLabel=ffffff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aman-Farmer19&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Farmer19&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=4a4a8a&text_color=ffffff)
-
-</div>
-
----
-
-## 🐍 Contribution Chart
-
-<div align="center">
-
-![Snake animation](https://github.com/Aman-Farmer19/Aman-Farmer19/blob/output/github-contribution-grid-snake-dark.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Farmer19&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -157,9 +123,15 @@ me.say_hi()
 
 ## 🏆 Certificates
 
-- 🎯 **Be10x** — AI Tools Workshop | Generative & Agentic AI, Prompt Engineering
+- 🎯 **Be10x** — AI Tools Workshop | Generative & Agentic AI, Prompt Engineering | Jun 2026
 - 🐍 **AI For Techies** — Python Using AI Workshop | Jul 2026
 - 💼 **Centum Foundation** — Employability Enhancement Programme | Sep 2025
+
+---
+
+## 🎯 Interests
+
+`Artificial Intelligence` `LLMs` `Cloud Architecture` `Competitive Programming` `Prompt Engineering` `Cricket` `Cooking`
 
 ---
 
@@ -168,7 +140,5 @@ me.say_hi()
 ![Profile Views](https://komarev.com/ghpvc/?username=Aman-Farmer19&color=4a4a8a&style=for-the-badge&label=PROFILE+VIEWS)
 
 ### 💜 Code • Learn • Build • Repeat 💜
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4a4a8a,100:1a1a2e&height=120&section=footer)
 
 </div>
