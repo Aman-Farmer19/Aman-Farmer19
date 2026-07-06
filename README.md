@@ -1,5 +1,17 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Welcome%20to%20Aman's%20GitHub&fontSize=34&fontColor=fff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4A4A8A&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Aman+Tiwari+👋;Software+Developer;AI+%26+Cloud+Enthusiast;Open+to+Work!" alt="Typing SVG" />
+</h1>
+
+</div>
+
+
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a4a8a&height=200&section=header&text=Welcome%20to%20Aman's%20GitHub%20%3C/%3E&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=60&descSize=15" width="100%"/>
 
 </div>
