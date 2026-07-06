@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a4a8a&height=200&section=header&text=Welcome%20to%20Aman's%20GitHub%20%3C/%3E&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=60&descSize=15" width="100%"/>
+
+</div>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a4a8a&height=200&section=header&text=Welcome%20to%20Aman's%20GitHub&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=16)
 
 </div>
