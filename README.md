@@ -23,7 +23,6 @@
 - 🌱 Currently exploring **Agentic AI & RAG-based systems**
 - 💼 **Open to Work** — Looking for Software Developer roles
 - 📫 Reach me at **amantripathi912@gmail.com**
-- * 📬 **Reach me at** [amantripathi92@gmail.com](mailto:amantripathi92@gmail.com)
 * 🔗 **Connect with me on** [LinkedIn](https://www.linkedin.com/in/tiwari-aman1999/)
 
 ---
