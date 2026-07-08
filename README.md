@@ -114,7 +114,7 @@
 
 ![Aman's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Aman-Farmer19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aman-Farmer19&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Aman-Farmer19&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aman-Farmer19&layout=compact&theme=tokyonight&hide_border=true)
 
