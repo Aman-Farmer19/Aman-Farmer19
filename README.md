@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github_profile_banner.jpg" alt="Aman Tiwari Profile Banner" width="100%" />
+</p>
+
 <div align="center">
 
 # Hi there, I'm Aman Tiwari 👋
