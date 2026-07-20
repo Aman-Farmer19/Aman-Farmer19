@@ -133,6 +133,12 @@
 - 🎯 **Be10x** — AI Tools Workshop | Generative & Agentic AI, Prompt Engineering | Jun 2026
 - 🐍 **AI For Techies** — Python Using AI Workshop | Jul 2026
 - 💼 **Centum Foundation** — Employability Enhancement Programme | Sep 2025
+- ## 📜 Certifications
+
+* 🏅 **30 Day Python Using AI Program** — **AI for Techies** *(Issued: July 13, 2026)*
+  * ⚡ **AI-Assisted Python Development:** Writing & structuring Python code with AI in seconds
+  * 🐞 **AI-Powered Code Debugging:** Fast error detection and automated debugging
+  * 📊 **Data Visualization:** Creating interactive Python data visualizations in minutes
 
 ---
 
